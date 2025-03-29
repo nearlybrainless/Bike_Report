@@ -1,4 +1,4 @@
-# 🚲 Bike Data Analysis - Power BI Report
+# 🚲 End-to-End Bike Data Analysis | SSMS ➡️ SQL ➡️ Power BI
 
 ## 📊 Overview
 This Power BI report provides insights into bike usage patterns, trends, and key performance indicators. It includes visualizations and data-driven analysis to help understand factors affecting bike rentals.
@@ -11,8 +11,12 @@ This Power BI report provides insights into bike usage patterns, trends, and key
 ## 🏗 Data Model
 The report utilizes:
 - 📄 **Tables**: Bike rentals, customer details, time series data.
-- 🔗 **Relationships**: Connected datasets enabling seamless analysis.
 - 🧮 **DAX Measures**: Custom metrics for aggregation and trend analysis.
+
+## 🗄 Data Source  
+The data for this report was fetched from **SQL Server Management Studio (SSMS)** using a SQL query. The extracted data was then imported into Power BI for analysis.
+
+<img src="SQL_Query.png" alt="SQL Query" width="400">
 
 ## 🖼 Screenshots  
 ### 1️⃣ Bike Data Report  
